@@ -10,7 +10,7 @@ header.nav-icon-navbar{
     display: flex;
     justify-content: space-between;
     padding: 16px;
-    background-color: black;
+    background-color: grey;
     flex-wrap: wrap;
 
 }
